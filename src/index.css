@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "BarlowSemiCondensed-SemiBold";
+  src: url("./assets/fuente/BarlowSemiCondensed-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "BarlowSemiCondensed-Medium";
+  src: url("./assets/fuente/BarlowSemiCondensed-Medium.ttf");
+}
+
+
+html{
+	box-sizing: border-box;
+	font-size: 13px;
+  font-family: "BarlowSemiCondensed-Medium";
+
+}
+
+
+body{
+  background-color: #EDF2F8
+}
+
+*,
+*:after,
+*:before{
+	padding: 0;
+	margin: 0;
+	box-sizing: inherit;
+}
+
+
+
